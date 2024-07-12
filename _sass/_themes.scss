@@ -4,7 +4,7 @@
 
 :root {
   --global-bg-color: #{$white-color};
-  --global-code-bg-color: #{$code-bg-color-light};
+  --global-code-bg-color: #{$light-cyan-color};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
   --global-theme-color: #{$cyan-color};
@@ -16,7 +16,7 @@
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{$white-color};
-  --global-highlight-color: #{$light-cyan-color};
+  --global-highlight-color: #{$red-color-dark};
   --global-back-to-top-bg-color: rgba(#{red($black-color)}, #{green($black-color)}, #{blue($black-color)}, 0.4);
   --global-back-to-top-text-color: #{$white-color};
   --global-newsletter-bg-color: #{$white-color};
@@ -31,7 +31,7 @@
   --global-warning-block-text: #6b5900;
   --global-warning-block-title: #b29400;
   --global-danger-block: #c00;
-  --global-danger-block-bg: #e0ffff;
+  --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
@@ -95,7 +95,7 @@ html[data-theme="dark"] {
   --global-warning-block-text: #6b5900;
   --global-warning-block-title: #b29400;
   --global-danger-block: #c00;
-  --global-danger-block-bg: #e0ffff;
+  --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
