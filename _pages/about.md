@@ -29,7 +29,7 @@ I will be on the 2024 job market!
 Experimental Economics, Microeconomic Theory, Political Economy
 
 `Contact Information`  
-tianlinliu@tamu.edu
+[tianlinliu@tamu.edu](mailto:tianlinliu@tamu.edu)
 
 `Mailing Address`  
 <p>Department of Economics, TAMU</p>  
