@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   image_circular: true # crops the image to make it circular
   #more_info: >
   #  <p>Department of Economics, TAMU</p>
