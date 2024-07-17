@@ -12,7 +12,7 @@ nav_order: 2
 <span style="font-size:30px;">Job Market Paper</span>
 
 <p>"The Lesser of Two Evils: Evaluating Voting Rules Using Consequential Elections"</p>
-<p><span style="font-size:12px;"><strong>(Job Market Paper)</strong> <em>In Progress</em></span></p>  
+<p class="job-market-info"><span style="font-size:12px;"><strong>(Job Market Paper)</strong> <em>In Progress</em></span></p>  
 
 <div class="abstract-container">
   <div class="vertical-line"></div>
@@ -44,5 +44,9 @@ nav_order: 2
   flex: 1;
   padding-left: 10px;
   border-left: 2px solid #ccc;
+}
+
+.job-market-info {
+  margin-top: -10px; /* Adjust this value as needed */
 }
 </style>
