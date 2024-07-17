@@ -11,16 +11,23 @@ nav_order: 2
 
 Job Market Paper
 
-Working Papers
+"The Lesser of Two Evils: Evaluating Voting Rules Using Consequential Elections"  
+(Job Market Paper) In Progress
 
-Work in Progress
+How do we evaluate the effects of electoral systems? Despite growing interest in the implementation of voting rules other than plurality, there is limited causal evidence of the effects of alternative voting rules. In a field experiment utilizing voting competitions between charities as proxies for real political elections, I estimate the impact of voting rules on participation and satisfaction. I also introduce a model of expressive voting where voters incur a cost from submitting votes that do not reflect their preferences over candidates. This cost is a function of the distance between a participant's vote and preference profile.
 
-{% if site.search_enabled %}
+Other Research
+
+"Registrar Redesign: Transformin Room Optimization Through Market Design"
+
+"Finding Feasible Schedules with a Pseudo-Market"
+
+<!-- {% if site.search_enabled %}
 <input type="text" id="bibsearch" spellcheck="false" autocomplete="off" class="search bibsearch-form-input" placeholder="Type to filter">
 {% endif %}
 
 <div class="publications">
 
 {% bibliography %}
-
+-->
 </div>
