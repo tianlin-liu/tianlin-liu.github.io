@@ -25,8 +25,14 @@ nav_order: 2
 
 <span style="font-size:30px;">Other Research</span>
 
-<p>"Registrar Redesign: Transforming Room Optimization Through Market Design"</p>
-<p>"Finding Feasible Schedules with a Pseudo-Market"</p>
+<p>
+  "Registrar Redesign: Transforming Room Optimization Through Market Design"<br>
+  <span style="font-size:12px;"><em>In Progress</em></span>
+</p>
+<p>
+  "Finding Feasible Schedules with a Pseudo-Market"<br>
+  <span style="font-size:12px;"><em>In Progress</em></span>
+</p>
 
 <style>
 .abstract-container {
@@ -37,14 +43,25 @@ nav_order: 2
 
 .vertical-line {
   width: 4px;
-  height: auto;
   background-color: #ccc;
   margin-right: 10px;
+  /* Add a default height, will adjust dynamically */
 }
 
 .abstract-content {
   flex: 1;
   padding-left: 10px;
   border-left: 2px solid #ccc;
+  position: relative;
+}
+
+.abstract-content::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -12px; /* Adjust this based on your vertical line width and padding */
+  width: 4px;
+  height: 100%;
+  background-color: #ccc;
 }
 </style>
