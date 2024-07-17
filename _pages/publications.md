@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<span style="font-size:30px;"><strong>Job Market Paper</strong></span>
+<span style="font-size:30px;">Job Market Paper</span>
 
 <p>
   "The Lesser of Two Evils: Evaluating Voting Rules Using Consequential Elections"<br>
@@ -17,13 +17,13 @@ nav_order: 2
 </p>
 
 <div class="abstract-container">
-  <div class="vertical-line"></div>
   <div class="abstract-content">
+    <div class="vertical-line"></div>
     <p>How do we evaluate the effects of electoral systems? Despite growing interest in the implementation of voting rules other than plurality, there is limited causal evidence of the effects of alternative voting rules. In a field experiment utilizing voting competitions between charities as proxies for real political elections, I estimate the impact of voting rules on participation and satisfaction. I also introduce a model of expressive voting where voters incur a cost from submitting votes that do not reflect their preferences over candidates. This cost is a function of the distance between a participant's vote and preference profile.</p>
   </div>
 </div>
 
-<span style="font-size:30px;"><strong>Other Research</strong></span>
+<span style="font-size:30px;">Other Research</span>
 
 <p>
   "Registrar Redesign: Transforming Room Optimization Through Market Design"<br>
@@ -45,14 +45,13 @@ nav_order: 2
   width: 4px;
   background-color: #ccc;
   margin-right: 10px;
-  /* Adjust this value to be one line shorter */
-  height: calc(100% - 1.5em);
+  height: 95%; /* Adjust this value to be one line shorter */
 }
 
 .abstract-content {
   flex: 1;
   padding-left: 10px;
-  border-left: 2px solid #ccc;
   position: relative;
+  border-left: 2px solid transparent;
 }
 </style>
