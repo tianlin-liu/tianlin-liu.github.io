@@ -45,12 +45,23 @@ nav_order: 2
   width: 4px;
   background-color: #ccc;
   margin-right: 10px;
-  height: calc(100% - 1em); /* Adjust this value to be one line shorter */
+  height: calc(100% - 1.5em); /* Adjust this value to be one line shorter */
 }
 
 .abstract-content {
   flex: 1;
   padding-left: 10px;
   border-left: 2px solid #ccc;
+  position: relative;
+}
+
+.abstract-content::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -12px; /* Adjust this based on your vertical line width and padding */
+  width: 4px;
+  height: calc(100% - 1.5em); /* Adjust this value to match the vertical line height */
+  background-color: #ccc;
 }
 </style>
