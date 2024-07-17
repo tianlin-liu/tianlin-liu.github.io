@@ -9,6 +9,10 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+<span style="font-size:20px;">**This text is 20px**</span>
+
+<span style="font-size:20px;">*This text is 30px*</span>
+
 Job Market Paper
 
 "The Lesser of Two Evils: Evaluating Voting Rules Using Consequential Elections"  
