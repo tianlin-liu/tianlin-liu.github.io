@@ -44,11 +44,12 @@ nav_order: 2
   width: 4px;
   background-color: #ccc;
   margin-right: 10px;
+  height: calc(100% - 1em); /* Adjust this value to be one line shorter */
 }
 
 .abstract-content {
+  flex: 1;
   padding-left: 10px;
   border-left: 2px solid #ccc;
-  margin-left: 4px;
 }
 </style>
