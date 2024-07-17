@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<span style="font-size:30px;">Job Market Paper</span>
+<span style="font-size:30px;"><strong>Job Market Paper</strong></span>
 
 <p>
   "The Lesser of Two Evils: Evaluating Voting Rules Using Consequential Elections"<br>
@@ -23,7 +23,7 @@ nav_order: 2
   </div>
 </div>
 
-<span style="font-size:30px;">Other Research</span>
+<span style="font-size:30px;"><strong>Other Research</strong></span>
 
 <p>
   "Registrar Redesign: Transforming Room Optimization Through Market Design"<br>
@@ -45,7 +45,8 @@ nav_order: 2
   width: 4px;
   background-color: #ccc;
   margin-right: 10px;
-  height: calc(100% - 1.5em); /* Adjust this value to be one line shorter */
+  /* Adjust this value to be one line shorter */
+  height: calc(100% - 1.5em);
 }
 
 .abstract-content {
@@ -53,15 +54,5 @@ nav_order: 2
   padding-left: 10px;
   border-left: 2px solid #ccc;
   position: relative;
-}
-
-.abstract-content::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: -12px; /* Adjust this based on your vertical line width and padding */
-  width: 4px;
-  height: calc(100% - 1.5em); /* Adjust this value to match the vertical line height */
-  background-color: #ccc;
 }
 </style>
