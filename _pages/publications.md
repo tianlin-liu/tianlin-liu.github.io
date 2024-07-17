@@ -9,10 +9,10 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<span style="font-size:30px;">**Job Market Paper**</span>
+<span style="font-size:30px;">Job Market Paper</span>
 
-<p>"The Lesser of Two Evils: Evaluating Voting Rules Using Consequential Elections"</p>  
-<p><span style="font-size:12px;">**(Job Market Paper)** *In Progress*</span></p>  
+<p>"The Lesser of Two Evils: Evaluating Voting Rules Using Consequential Elections"</p>
+<p><span style="font-size:12px;"><strong>(Job Market Paper)</strong> <em>In Progress</em></span></p>  
 
 <div class="abstract-container">
   <div class="vertical-line"></div>
@@ -21,7 +21,7 @@ nav_order: 2
   </div>
 </div>
 
-<span style="font-size:30px;">**Other Research**</span>
+<span style="font-size:30px;">Other Research</span>
 
 <p>"Registrar Redesign: Transforming Room Optimization Through Market Design"</p>
 <p>"Finding Feasible Schedules with a Pseudo-Market"</p>
@@ -35,7 +35,7 @@ nav_order: 2
 
 .vertical-line {
   width: 4px;
-  height: 100%;
+  height: auto;
   background-color: #ccc;
   margin-right: 10px;
 }
