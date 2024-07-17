@@ -17,8 +17,8 @@ nav_order: 2
 </p>
 
 <div class="abstract-container">
-  <div class="vertical-line"></div>
   <div class="abstract-content">
+    <div class="vertical-line"></div>
     <p>How do we evaluate the effects of electoral systems? Despite growing interest in the implementation of voting rules other than plurality, there is limited causal evidence of the effects of alternative voting rules. In a field experiment utilizing voting competitions between charities as proxies for real political elections, I estimate the impact of voting rules on participation and satisfaction. I also introduce a model of expressive voting where voters incur a cost from submitting votes that do not reflect their preferences over candidates. This cost is a function of the distance between a participant's vote and preference profile.</p>
   </div>
 </div>
@@ -37,20 +37,28 @@ nav_order: 2
 <style>
 .abstract-container {
   display: flex;
-  align-items: flex-start;
   margin-top: 10px;
 }
 
 .vertical-line {
   width: 4px;
   background-color: #ccc;
+  height: calc(100% - 1em); /* Adjust this value to be one line shorter */
   margin-right: 10px;
-  height: 95%; /* Adjust this value to be one line shorter */
 }
 
 .abstract-content {
-  flex: 1;
-  padding-left: 10px;
   position: relative;
+  padding-left: 14px;
+}
+
+.abstract-content::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: calc(100% - 1em); /* Adjust this value to be one line shorter */
+  background-color: #ccc;
 }
 </style>
