@@ -9,7 +9,7 @@ cv_pdf: assets/pdf/Tian_Lin_Liu_CV.pdf
 ---
 
 <style>
-  .page__title {
+  h1.post-title {
     display: none;
   }
 </style>
