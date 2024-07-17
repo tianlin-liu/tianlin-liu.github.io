@@ -2,11 +2,20 @@
 layout: page
 permalink: /Teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+`Primary Instructor`  
+Econ 323 Microeconomic Theory  
+Econ 285 Hullabaloo U (First Year Experience)  
 
-Organize your courses by years, topics, or universities, however you like!
+`Teaching Assistant`  
+ECMT 463 Intro to Econometrics  
+ECMT 660 Mathematical Economics  
+ECON 203 Principles of Economics  
+ECON 323 Microeconomic Theory  
+ECON 440 Experimental Economics  
+ECON 449 Economics of Decision  
+ECON 465 Contemporary Economic Issues  
