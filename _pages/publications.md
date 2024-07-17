@@ -14,7 +14,12 @@ nav_order: 2
 "The Lesser of Two Evils: Evaluating Voting Rules Using Consequential Elections"  
 <span style="font-size:12px;">**(Job Market Paper)** *In Progress*</span>  
 
+<div class="abstract-container">
+  <div class="vertical-line"></div>
+  <div class="abstract-content">
 How do we evaluate the effects of electoral systems? Despite growing interest in the implementation of voting rules other than plurality, there is limited causal evidence of the effects of alternative voting rules. In a field experiment utilizing voting competitions between charities as proxies for real political elections, I estimate the impact of voting rules on participation and satisfaction. I also introduce a model of expressive voting where voters incur a cost from submitting votes that do not reflect their preferences over candidates. This cost is a function of the distance between a participant's vote and preference profile.
+</div>
+</div>
 
 <span style="font-size:30px;">**Other Research**</span>
 

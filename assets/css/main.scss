@@ -6,6 +6,26 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
+<style>
+.abstract-container {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 10px;
+}
+
+.vertical-line {
+  width: 4px;
+  background-color: #ccc;
+  margin-right: 10px;
+}
+
+.abstract-content {
+  flex: 1;
+  padding-left: 10px;
+  border-left: 2px solid #ccc;
+}
+</style>
+
 @import
   "variables",
   "themes",
