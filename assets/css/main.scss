@@ -6,6 +6,19 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
+/* Hide specific icons */
+.fa-envelope {
+  display: none;
+}
+
+.ai-google-scholar {
+  display: none;
+}
+
+.fa-square-rss {
+  display: none;
+}
+
 @import
   "variables",
   "themes",
