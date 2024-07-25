@@ -16,6 +16,7 @@ nav_order: 2
   <span style="font-size:12px;"><strong>(Job Market Paper)</strong> <em>In Progress</em></span>
 </p>
 
+Abstract  
 How do we evaluate the effects of electoral systems? Despite growing interest in the implementation of voting rules other than plurality, there is limited causal evidence of the effects of alternative voting rules. In a field experiment utilizing voting competitions between charities as proxies for real political elections, I estimate the impact of voting rules on participation and satisfaction. I also introduce a model of expressive voting where voters incur a cost from submitting votes that do not reflect their preferences over candidates. This cost is a function of the distance between a participant's vote and preference profile.
  
 
