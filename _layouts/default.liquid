@@ -5,6 +5,16 @@
     <!-- Google verification meta tag -->
     <meta name="google-site-verification" content="tqQkBhEfLs8Uqeaska5Ju5n2B3aQKNN_OiYvTT5SY1A" />
 
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RSPNGX5Y3B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RSPNGX5Y3B');
+</script>
+
     {% if page.redirect %}
       {% if page.redirect == true %}
         {% assign redirect = site.baseurl | append: '/' %}
