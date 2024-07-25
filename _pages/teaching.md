@@ -9,7 +9,10 @@ nav_order: 3
 
 `Primary Instructor`  
 Econ 323 Microeconomic Theory  
+
 Econ 285 Hullabaloo U (First Year Experience)  
+
+Quote: "Tian developed meaningful relationships that made all students in my section feel welcomed at texas a&m. He was always outgoing and taught new material every class. He always checks on his students to see how we were mentally and how we were settling into university life."
 
 `Teaching Assistant`  
 ECMT 463 Intro to Econometrics  
