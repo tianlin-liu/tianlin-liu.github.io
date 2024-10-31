@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 Hello and welcome to my website!
 
 I am a Ph.D. candidate in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/).  
-My research lies at the intersection of microeconomic theory and behavioral economics. I am particularly interested in using insights from social choice problems to inform the implementation of concepts from mechanism design.
+My research lies at the intersection of microeconomic theory and behavioral economics. I am particularly interested in using insights from experiments and administrative data to inform the implementation of concepts from mechanism design.
 
 I will be available on the 2024 job market.
 

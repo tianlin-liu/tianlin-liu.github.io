@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 1
 description: 
-cv_pdf: assets/pdf/Tian_Lin_Liu_CV.pdf
+cv_pdf: assets/pdf/Tian_Liu_CV.pdf
 ---
 
 <style>

@@ -17,16 +17,20 @@ nav_order: 2
 </p>
 
 Abstract  
-How do we evaluate the effects of electoral systems? Despite growing interest in the implementation of voting rules other than plurality, there is limited causal evidence of the effects of alternative voting rules. In a field experiment utilizing voting competitions between charities as proxies for real political elections, I estimate the impact of voting rules on participation and satisfaction. I also introduce a model of expressive voting where voters incur a cost from submitting votes that do not reflect their preferences over candidates. This cost is a function of the distance between a participant's vote and preference profile.
+Despite growing interest in replacing plurality rule in general elections, there is limited causal evidence regarding the effects of alternative voting rules. This study employs a field experiment in which voting competitions between charities serve as proxies for political elections to estimate the impact of different voting rules on important voter behavior such as participation and strategic voting. Data from the contests indicate that voters in elections using single-winner ranked choice voting (RCV) are up to 10 percentage points more likely to participate in subsequent elections. This increase is not uniform and depends crucially on the composition of candidates in elections. Further analysis reveals that these differences arise not from novelty or expressiveness in voting rules but from variations in how winners are aggregated across elections.
  
 
 <span style="font-size:30px;"><strong>Other Research</strong></span>
 
 <p>
-  "Registrar Redesign: Transforming Room Optimization Through Market Design"<br>
+  "Registrar Redesign: Optimizing Room Scheduling Through Market Design"<br>
   <span style="font-size:12px;"><em>In Progress</em></span>
 </p>
+
+Abstract
+Allocating combinatorial resources, such as room schedules, poses challenges as agents often struggle to articulate complex preferences. This study examines classroom slot assignments for teachers using administrative data on room ownership, travel times, and past allocations. Teacher preferences are derived based on proximity and scheduling needs, and a centralized matching market facilitates trades for teachers with one or two classes. Preliminary results suggest that simulated preferences improve assignment efficiency and enhance teacher welfare, presenting a promising approach for resource allocation in room scheduling.
+
 <p>
-  "Finding Feasible Schedules with a Pseudo-Market"<br>
+  "Voting Rules and Campaign Polarization: Consequences for Voter Choice"<br>
   <span style="font-size:12px;"><em>In Progress</em></span>
 </p>
