@@ -16,6 +16,11 @@ nav_order: 2
   <span style="font-size:12px;"><strong>(Job Market Paper)</strong> <em>In Progress</em></span>
 </p>
 
+<p>
+  <a href="/assets/pdf/Liu2024_Vote_to_Give.pdf" target="_blank">[Download Paper]</a> | 
+  <a href="/assets/pdf/Vote_to_Give_Slides.pdf" target="_blank">[View Slides]</a>
+</p>
+
 Abstract  
 Despite growing interest in replacing plurality rule in general elections, there is limited causal evidence regarding the effects of alternative voting rules. This study employs a field experiment in which voting competitions between charities serve as proxies for political elections to estimate the impact of different voting rules on important voter behavior such as participation and strategic voting. Data from the contests indicate that voters in elections using single-winner ranked choice voting (RCV) are up to 10 percentage points more likely to participate in subsequent elections. This increase is not uniform and depends crucially on the composition of candidates in elections. Further analysis reveals that these differences arise not from novelty or expressiveness in voting rules but from variations in how winners are aggregated across elections.
  
@@ -27,7 +32,7 @@ Despite growing interest in replacing plurality rule in general elections, there
   <span style="font-size:12px;"><em>In Progress</em></span>
 </p>
 
-Abstract
+Abstract  
 Allocating combinatorial resources, such as room schedules, poses challenges as agents often struggle to articulate complex preferences. This study examines classroom slot assignments for teachers using administrative data on room ownership, travel times, and past allocations. Teacher preferences are derived based on proximity and scheduling needs, and a centralized matching market facilitates trades for teachers with one or two classes. Preliminary results suggest that simulated preferences improve assignment efficiency and enhance teacher welfare, presenting a promising approach for resource allocation in room scheduling.
 
 <p>
