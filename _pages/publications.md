@@ -35,7 +35,3 @@ Despite growing interest in replacing plurality rule in general elections, there
 Abstract  
 Allocating combinatorial resources, such as room schedules, poses challenges as agents often struggle to articulate complex preferences. This study examines classroom slot assignments for teachers using administrative data on room ownership, travel times, and past allocations. Teacher preferences are derived based on proximity and scheduling needs, and a centralized matching market facilitates trades for teachers with one or two classes. Preliminary results suggest that simulated preferences improve assignment efficiency and enhance teacher welfare, presenting a promising approach for resource allocation in room scheduling.
 
-<p>
-  "Voting Rules and Campaign Polarization: Consequences for Voter Choice"<br>
-  <span style="font-size:12px;"><em>In Progress</em></span>
-</p>
